@@ -28,7 +28,7 @@ Run the script
 ```
 python cryptex.py
 ```
-<img alt="Cryptex" src="">
+![Usage](./usage.png)
 
 #### Warning
 It takes longer for encrypting and decrypting large files.
